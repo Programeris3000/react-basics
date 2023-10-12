@@ -1,0 +1,14 @@
+#cars-form{
+  background-color: bisque;
+  padding: 30px;
+  margin: 30px;
+  border: 1px solid;
+}
+#main-submit{
+}
+input[type="text"]{
+  margin-left: 5px;
+}
+select{
+  margin-left: 5px;
+}
